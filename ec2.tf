@@ -71,3 +71,4 @@ resource "aws_instance" "public_instance" {
   }
 }
 Selim Helvaci
+SRE
