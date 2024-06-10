@@ -70,4 +70,4 @@ resource "aws_instance" "public_instance" {
     volume_type = "gp2"
   }
 }
-Selim
+Selim Helvaci
